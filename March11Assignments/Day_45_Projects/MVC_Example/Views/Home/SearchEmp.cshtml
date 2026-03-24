@@ -1,0 +1,19 @@
+﻿@model MVC_Example.Models.Employee;
+@{
+    ViewData["Title"] = "SearchEmp";
+}
+
+<h1>SearchEmp</h1>
+
+<table border="1" cellpadding="2" cellspacing="3">
+    <tr>
+        <th>Employee Id</th>
+        <th>Employee Name</th>
+        <th>Employee Salary</th>
+    </tr>
+    <tr>
+        <td>@Model.EmployeeID</td>
+        <td>@Model.EmpName</td>
+        <td>@Model.Salary</td>
+    </tr>
+</table>

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\repos\\50\\Day_50_Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\layoutandsections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\layoutandsections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|d:\\net\\repos\\50\\day_50_projects\\layoutandsections\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802E5893-1DBC-4EDC-B0C4-E6833D55FAE6}|LayoutAndSections\\LayoutAndSections.csproj|solutionrelative:layoutandsections\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:34:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Dept\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Dept\\Index.cshtml",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Dept\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Dept\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:27:10.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:26:37.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:20:33.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "LayoutAndSections\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:36.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Models\\Employee.cs",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Models\\Employee.cs",
+              "RelativeToolTip": "LayoutAndSections\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LayoutAndSections",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\LayoutAndSections.csproj",
+              "RelativeDocumentMoniker": "LayoutAndSections\\LayoutAndSections.csproj",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\LayoutAndSections.csproj",
+              "RelativeToolTip": "LayoutAndSections\\LayoutAndSections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T06:21:59.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeptController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Controllers\\DeptController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Controllers\\DeptController.cs",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Controllers\\DeptController.cs",
+              "RelativeToolTip": "LayoutAndSections\\Controllers\\DeptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:12:51.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Models\\Department.cs",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Models\\Department.cs",
+              "RelativeToolTip": "LayoutAndSections\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayoutAndSections\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:06:22.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:56.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NET\\repos\\50\\Day_50_Projects\\LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayoutAndSections\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:26.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

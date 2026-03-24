@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\repos\\45\\Day_45_Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\collectionofdept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\collectionofdept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\empsindept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\empsindept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\collectionofobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\collectionofobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\mixedobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\mixedobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\models\\empdeptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\models\\empdeptviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\searchemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\searchemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\singleobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\singleobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|d:\\net\\repos\\45\\day_45_projects\\mvc_example\\views\\home\\sampledemo3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9EA5CF-E120-232C-F1D8-4B6A0694FAC8}|MVC_Example\\MVC_Example.csproj|solutionrelative:mvc_example\\views\\home\\sampledemo3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Dog\\Delete.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Delete.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Dog\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:26:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Dog\\Edit.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Dog\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:14:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Dog\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T05:06:41.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T04:43:30.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T04:23:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "MVC_Example\\Controllers\\DogController.cs",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Controllers\\DogController.cs",
+              "RelativeToolTip": "MVC_Example\\Controllers\\DogController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwJIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:18:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "MVC_Example\\Models\\Dog.cs",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\Dog.cs",
+              "RelativeToolTip": "MVC_Example\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T04:10:57.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollectionOfDept.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\CollectionOfDept.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\CollectionOfDept.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\CollectionOfDept.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\CollectionOfDept.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:03:27.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "collectionOfObjectPassing.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\collectionOfObjectPassing.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\collectionOfObjectPassing.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\collectionOfObjectPassing.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\collectionOfObjectPassing.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:09:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T04:26:38.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Example\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Example\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:34:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpsInDept.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\EmpsInDept.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\EmpsInDept.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\EmpsInDept.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\EmpsInDept.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:22:35.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpDeptViewModel.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\EmpDeptViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Example\\Models\\EmpDeptViewModel.cs",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\EmpDeptViewModel.cs",
+              "RelativeToolTip": "MVC_Example\\Models\\EmpDeptViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:05:26.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC_Example\\Models\\Department.cs",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\Department.cs",
+              "RelativeToolTip": "MVC_Example\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:49:39.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchEmp.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\SearchEmp.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\SearchEmp.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\SearchEmp.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\SearchEmp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T04:43:10.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MixedObjectPassing.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\MixedObjectPassing.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\MixedObjectPassing.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\MixedObjectPassing.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\MixedObjectPassing.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T05:11:19.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVC_Example\\Models\\Employee.cs",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Models\\Employee.cs",
+              "RelativeToolTip": "MVC_Example\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:20:09.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "display.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\display.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\display.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\display.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:27:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "singleObjectPassing.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\singleObjectPassing.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\singleObjectPassing.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\singleObjectPassing.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\singleObjectPassing.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T05:27:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T05:14:49.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sampleDemo3.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\sampleDemo3.cshtml",
+              "RelativeDocumentMoniker": "MVC_Example\\Views\\Home\\sampleDemo3.cshtml",
+              "ToolTip": "D:\\NET\\repos\\45\\Day_45_Projects\\MVC_Example\\Views\\Home\\sampleDemo3.cshtml",
+              "RelativeToolTip": "MVC_Example\\Views\\Home\\sampleDemo3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T04:57:58.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

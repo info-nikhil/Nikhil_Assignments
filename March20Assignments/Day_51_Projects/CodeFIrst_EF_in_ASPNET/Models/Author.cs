@@ -1,0 +1,11 @@
+﻿namespace CodeFIrst_EF_in_ASPNET.Models
+{
+    public class Author
+    {
+        public int Id { get; set; } // it will create identity column
+
+        public string? AuthorName { set; get; }
+        
+        public IList<Course> Courses { get; set; }
+    }
+}

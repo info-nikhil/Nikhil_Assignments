@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\views\\northwind\\customerorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\views\\northwind\\customerorderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\models\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\models\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|d:\\net\\repos\\49\\dbfirst_ef_dotnet\\dbfirst_ef_dotnet\\views\\northwind\\spaincustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5822AC6B-301C-49A1-9363-B3BFA2E62490}|DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET.csproj|solutionrelative:dbfirst_ef_dotnet\\views\\northwind\\spaincustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerOrderDetails.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\CustomerOrderDetails.cshtml",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Views\\NorthWind\\CustomerOrderDetails.cshtml",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\CustomerOrderDetails.cshtml",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Views\\NorthWind\\CustomerOrderDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T08:22:14.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRange.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\OrderRange.cshtml",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Views\\NorthWind\\OrderRange.cshtml",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\OrderRange.cshtml*",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Views\\NorthWind\\OrderRange.cshtml*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T05:19:13.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsInCategory.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T04:23:56.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdCat.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Models\\ProdCat.cs",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Models\\ProdCat.cs",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Models\\ProdCat.cs",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Models\\ProdCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:12:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchCustomer.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:22:50.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthWindController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Controllers\\NorthWindController.cs",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Controllers\\NorthWindController.cs",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Controllers\\NorthWindController.cs",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Controllers\\NorthWindController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:02:08.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpainCustomers.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T05:49:28.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpainCustomerViewModel.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Models\\SpainCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "DBFirst_EF_DOTNET\\Models\\SpainCustomerViewModel.cs",
+              "ToolTip": "D:\\NET\\repos\\49\\DBFirst_EF_DOTNET\\DBFirst_EF_DOTNET\\Models\\SpainCustomerViewModel.cs",
+              "RelativeToolTip": "DBFirst_EF_DOTNET\\Models\\SpainCustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:39:51.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
