@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\employeeui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\employeeui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\employeeui\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\employeeui\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\employeeui\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\employeeui\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\employeeui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\employeeui\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\employeeui\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\employeeui\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\models\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\models\\employeebasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\employeeui\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\employeeui\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\controllers\\employeeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\controllers\\employeeuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|d:\\net\\repos\\57\\webapi_in_aspnet_mvc\\webapi_in_aspnet_mvc\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B20BD-F9AF-BFFA-773D-E076774828CB}|WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC.csproj|solutionrelative:webapi_in_aspnet_mvc\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Export.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Export.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Export.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Export.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Export.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:46:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Edit.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Edit.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:45:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Details.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Details.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:44:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Delete.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Delete.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:42:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Create.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Create.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T06:41:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Index.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Index.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\EmployeeUI\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T05:32:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeUIController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Controllers\\EmployeeUIController.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Controllers\\EmployeeUIController.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Controllers\\EmployeeUIController.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Controllers\\EmployeeUIController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:22:36.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeBasicDTO.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Models\\EmployeeBasicDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Models\\EmployeeBasicDTO.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Models\\EmployeeBasicDTO.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Models\\EmployeeBasicDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:22:28.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:05:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:03:46.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:02:28.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\appsettings.json",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\appsettings.json",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T05:57:57.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeUpdateDTO.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Models\\EmployeeUpdateDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Models\\EmployeeUpdateDTO.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Models\\EmployeeUpdateDTO.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Models\\EmployeeUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:41:54.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\EmployeeService.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\EmployeeService.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\EmployeeService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADgv1cAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:24:02.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\IEmployee.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\IEmployee.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\IEmployee.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\IEmployee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:18:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Controllers\\EmpController.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:01:05.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Program.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Program.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:47:33.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAPI_in_ASPNET_MVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\NET\\repos\\57\\WebAPI_in_ASPNET_MVC\\WebAPI_in_ASPNET_MVC\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAPI_in_ASPNET_MVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:34:09.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
