@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\repos\\52\\Routing_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|d:\\net\\repos\\52\\routing_example\\routing_example\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|solutionrelative:routing_example\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|d:\\net\\repos\\52\\routing_example\\routing_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|solutionrelative:routing_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|d:\\net\\repos\\52\\routing_example\\routing_example\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|solutionrelative:routing_example\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|d:\\net\\repos\\52\\routing_example\\routing_example\\views\\student\\fewcolumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|solutionrelative:routing_example\\views\\student\\fewcolumns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|d:\\net\\repos\\52\\routing_example\\routing_example\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|solutionrelative:routing_example\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|d:\\net\\repos\\52\\routing_example\\routing_example\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275551B4-7EB5-4662-AB2F-36FBF07AD06B}|Routing_Example\\Routing_Example.csproj|solutionrelative:routing_example\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Routing_Example\\Program.cs",
+              "ToolTip": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Program.cs",
+              "RelativeToolTip": "Routing_Example\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwC0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:28:58.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FewColumns.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Views\\Student\\FewColumns.cshtml",
+              "RelativeDocumentMoniker": "Routing_Example\\Views\\Student\\FewColumns.cshtml",
+              "ToolTip": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Views\\Student\\FewColumns.cshtml",
+              "RelativeToolTip": "Routing_Example\\Views\\Student\\FewColumns.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:24:32.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetStudent.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Views\\Student\\GetStudent.cshtml",
+              "RelativeDocumentMoniker": "Routing_Example\\Views\\Student\\GetStudent.cshtml",
+              "ToolTip": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Views\\Student\\GetStudent.cshtml",
+              "RelativeToolTip": "Routing_Example\\Views\\Student\\GetStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:23:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "Routing_Example\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "Routing_Example\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T05:23:21.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Routing_Example\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Routing_Example\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:13:45.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Routing_Example\\Models\\Student.cs",
+              "ToolTip": "D:\\NET\\repos\\52\\Routing_Example\\Routing_Example\\Models\\Student.cs",
+              "RelativeToolTip": "Routing_Example\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:09:41.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
