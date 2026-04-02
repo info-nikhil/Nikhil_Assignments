@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|d:\\net\\nikhil_assignments\\march14assignments\\studentscourselist\\studentscourselist\\views\\enrollment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|solutionrelative:studentscourselist\\views\\enrollment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|d:\\net\\nikhil_assignments\\march14assignments\\studentscourselist\\studentscourselist\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|solutionrelative:studentscourselist\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|d:\\net\\nikhil_assignments\\march14assignments\\studentscourselist\\studentscourselist\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|solutionrelative:studentscourselist\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|d:\\net\\nikhil_assignments\\march14assignments\\studentscourselist\\studentscourselist\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|solutionrelative:studentscourselist\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|d:\\net\\nikhil_assignments\\march14assignments\\studentscourselist\\studentscourselist\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|solutionrelative:studentscourselist\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|d:\\net\\nikhil_assignments\\march14assignments\\studentscourselist\\studentscourselist\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81A47F4-925D-47D8-9FA5-25CEB6B39C8B}|StudentsCourseList\\StudentsCourseList.csproj|solutionrelative:studentscourselist\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Views\\Enrollment\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentsCourseList\\Views\\Enrollment\\Details.cshtml",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Views\\Enrollment\\Details.cshtml",
+              "RelativeToolTip": "StudentsCourseList\\Views\\Enrollment\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T17:28:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentsCourseList\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "StudentsCourseList\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T17:27:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "StudentsCourseList\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "StudentsCourseList\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:25:43.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "university.cs",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Models\\university.cs",
+              "RelativeDocumentMoniker": "StudentsCourseList\\Models\\university.cs",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Models\\university.cs",
+              "RelativeToolTip": "StudentsCourseList\\Models\\university.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:24:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Models\\student.cs",
+              "RelativeDocumentMoniker": "StudentsCourseList\\Models\\student.cs",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Models\\student.cs",
+              "RelativeToolTip": "StudentsCourseList\\Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:23:23.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "course.cs",
+              "DocumentMoniker": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Models\\course.cs",
+              "RelativeDocumentMoniker": "StudentsCourseList\\Models\\course.cs",
+              "ToolTip": "D:\\NET\\Nikhil_Assignments\\March14Assignments\\StudentsCourseList\\StudentsCourseList\\Models\\course.cs",
+              "RelativeToolTip": "StudentsCourseList\\Models\\course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:24:54.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
