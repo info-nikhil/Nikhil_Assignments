@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace DBFirst_EF_DOTNET.Models;
+
+public partial class SummaryOfSalesByQuarter
+{
+    public DateTime? ShippedDate { get; set; }
+
+    public int OrderId { get; set; }
+
+    public decimal? Subtotal { get; set; }
+}

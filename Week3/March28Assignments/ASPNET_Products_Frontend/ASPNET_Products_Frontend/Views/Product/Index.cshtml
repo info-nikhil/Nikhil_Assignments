@@ -1,0 +1,72 @@
+﻿@model List<ASPNET_Products_Frontend.Models.Product>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>Product List</h2>
+
+<a href="/Product/Create">Add New Product</a>
+
+<br />
+<br />
+
+<table border="1" cellpadding="10" id="productTable">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<script>
+    const apiUrl = "https://localhost:7000/api/Product";
+
+    function loadProducts() {
+        fetch(apiUrl)
+            .then(res => {
+                if (!res.ok) throw new Error("Failed to fetch data");
+                return res.json();
+            })
+            .then(data => {
+                let tbody = document.querySelector("#productTable tbody");
+                tbody.innerHTML = ""; // clear old data
+
+                data.forEach(item => {
+                    let row = `
+                        <tr>
+                            <td>${item.name}</td>
+                            <td>${item.price}</td>
+                            <td>${item.category}</td>
+                            <td>
+                                <a href="/Product/Edit/${item.id}">Edit</a> |
+                                <button onclick="deleteProduct(${item.id})">Delete</button>
+                            </td>
+                        </tr>
+                    `;
+                    tbody.innerHTML += row;
+                });
+            })
+            .catch(err => console.error("Error:", err));
+    }
+
+    function deleteProduct(id) {
+        if (!confirm("Are you sure you want to delete?")) return;
+
+        fetch(apiUrl + "/" + id, {
+            method: "DELETE"
+        })
+        .then(res => {
+            if (res.ok) {
+                alert("Deleted successfully");
+                loadProducts(); // refresh table
+            } else {
+                alert("Delete failed");
+            }
+        });
+    }
+
+    loadProducts();
+</script>
