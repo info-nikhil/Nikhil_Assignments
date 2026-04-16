@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BlobEncryptAndDecrypt/BlobEncryptAndDecrypt.csproj" />
+  <Project Path="Decrypt/Decrypt.csproj" />
+</Solution>
