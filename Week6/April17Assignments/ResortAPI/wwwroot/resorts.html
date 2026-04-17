@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Resorts</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-dark text-light">
+    <div class="container py-4">
+        <h2>Available Resorts</h2>
+        <div id="resorts" class="row gy-3"></div>
+    </div>
+
+    <script>async function loadResorts() {
+      const res = await fetch('/api/resort');
+      const data = await res.json();
+      const container = document.getElementById('resorts');
+      container.innerHTML = '';
+      data.forEach(r => {
+        const col = document.createElement('div');
+        col.className = 'col-md-4';
+        col.innerHTML = `
+          <div class="card text-dark">
+            <img src="${r.resortImageUrl || 'https://via.placeholder.com/400x200'}" class="card-img-top" />
+            <div class="card-body">
+              <h5 class="card-title">${r.resortName}</h5>
+              <p class="card-text">${r.description || ''}</p>
+              <p class="card-text"><strong>Price:</strong> $${r.price}</p>
+              <a href="/booking.html?resortId=${r.resortId}" class="btn btn-primary">Book</a>
+            </div>
+          </div>
+        `;
+        container.appendChild(col);
+      });
+    }
+
+    loadResorts();</script>
+</body>
+</html>
