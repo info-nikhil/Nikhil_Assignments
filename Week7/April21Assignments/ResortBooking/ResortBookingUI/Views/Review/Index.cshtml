@@ -1,0 +1,22 @@
+﻿@model List<ResortBookingUI.MVC.Models.Review>
+
+<h2>Reviews</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create">Add Review</a>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Subject</th>
+        <th>Rating</th>
+        <th>Comment</th>
+    </tr>
+
+@foreach (var r in Model)
+{
+    <tr>
+        <td>@r.Subject</td>
+        <td>@r.Rating</td>
+        <td>@r.Body</td>
+    </tr>
+}
+</table>

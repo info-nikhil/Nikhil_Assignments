@@ -1,0 +1,16 @@
+﻿@model ResortBookingUI.MVC.Models.Resort
+
+<h2>Delete Resort</h2>
+
+<h4>Are you sure you want to delete this?</h4>
+
+<div>
+    <strong>@Model.ResortName</strong> - @Model.ResortLocation
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="ResortId" />
+
+    <button class="btn btn-danger">Delete</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+</form>

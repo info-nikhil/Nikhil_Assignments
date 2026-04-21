@@ -1,0 +1,56 @@
+﻿@model List<ResortBookingUI.MVC.Models.Booking>
+
+@{
+    var role = Context.Session.GetString("Role");
+}
+
+<h2>Bookings</h2>
+
+@if (role == "Customer")
+{
+    <a class="btn btn-primary mb-3" asp-action="Create">New Booking</a>
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Resort</th>
+        <th>Price</th>
+        <th>Persons</th>
+        <th>Status</th>
+        <th>Availability</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var b in Model)
+    {
+        <tr>
+            <td>@b.BookingId</td>
+            <td>@b.Resort?.ResortName</td>
+            <td>₹@b.Resort?.Price</td>
+            <td>@b.NoOfPersons</td>
+            <td>@b.Status</td>
+            <td>@b.Resort?.ResortAvailableStatus</td>
+
+            <td>
+                @if (role == "Customer")
+                {
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@b.BookingId">Cancel</a>
+                }
+
+                @if (role == "Admin")
+                {
+                    <a class="btn btn-success"
+                       asp-action="UpdateStatus"
+                       asp-route-id="@b.BookingId"
+                       asp-route-status="Accepted">Accept</a>
+
+                    <a class="btn btn-warning"
+                       asp-action="UpdateStatus"
+                       asp-route-id="@b.BookingId"
+                       asp-route-status="Rejected">Reject</a>
+                }
+            </td>
+        </tr>
+    }
+</table>

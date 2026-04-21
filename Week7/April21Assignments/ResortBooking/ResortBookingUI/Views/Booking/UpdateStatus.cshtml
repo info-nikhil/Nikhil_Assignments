@@ -1,0 +1,31 @@
+﻿@model ResortBookingUI.MVC.Models.Booking
+
+@{
+    ViewData["Title"] = "Update Booking Status";
+}
+
+<h2>Update Booking Status</h2>
+
+<div class="card p-3">
+    <h5>Booking Details</h5>
+    <p><b>ID:</b> @Model.BookingId</p>
+    <p><b>Persons:</b> @Model.NoOfPersons</p>
+    <p><b>Status:</b> @Model.Status</p>
+</div>
+
+<form method="post" asp-action="UpdateStatus">
+
+    <input type="hidden" name="id" value="@Model.BookingId" />
+
+    <div class="form-group mt-3">
+        <label>Select Status</label>
+        <select name="status" class="form-control">
+            <option value="Accepted">Accept</option>
+            <option value="Rejected">Reject</option>
+        </select>
+    </div>
+
+    <button class="btn btn-success mt-3">Update</button>
+    <a class="btn btn-secondary mt-3" asp-action="Index">Back</a>
+
+</form>

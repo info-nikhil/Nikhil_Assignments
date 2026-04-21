@@ -1,0 +1,58 @@
+﻿@model ResortBookingUI.MVC.Models.Booking
+
+<h2>Create Booking</h2>
+
+<form method="post">
+    <label>Enter number of Persons</label>
+    <input asp-for="NoOfPersons" class="form-control mb-2" placeholder="Persons" />
+
+    <label>From Date</label>
+    <input asp-for="FromDate" type="date" class="form-control mb-2" />
+
+    <label>To Date</label>
+    <input asp-for="ToDate" type="date" class="form-control mb-2" />
+
+    <label>Total Price</label>
+    <input asp-for="TotalPrice" id="totalPrice" class="form-control mb-2" readonly />
+
+    <label>Enter Address</label>
+    <input asp-for="Address" class="form-control mb-2" placeholder="Address" />
+
+    <!-- AUTO FILLED RESORT ID -->
+    <label>Resort Id</label>
+    <input asp-for="ResortId" class="form-control mb-2" readonly />
+
+    <button class="btn btn-success">Book</button>
+    <a class="btn btn-secondary" asp-action="Index">Back</a>
+
+</form>
+
+@section Scripts {
+    <script>
+        const fromDate = document.querySelector('[name="FromDate"]');
+        const toDate = document.querySelector('[name="ToDate"]');
+        const totalPrice = document.getElementById("totalPrice");
+
+        // FIX: Hardcoded price (temporary)
+        const pricePerDay = 2000; // later we will fetch from API
+
+        function calculatePrice() {
+            if (fromDate.value && toDate.value) {
+
+                let start = new Date(fromDate.value);
+                let end = new Date(toDate.value);
+
+                let days = (end - start) / (1000 * 60 * 60 * 24);
+
+                if (days > 0) {
+                    totalPrice.value = days * pricePerDay;
+                } else {
+                    totalPrice.value = 0;
+                }
+            }
+        }
+
+        fromDate.addEventListener("change", calculatePrice);
+        toDate.addEventListener("change", calculatePrice);
+    </script>
+}

@@ -1,0 +1,17 @@
+﻿@model ResortBookingUI.MVC.Models.Resort
+
+<h2>Edit Resort</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="ResortId" />
+
+    <input asp-for="ResortName" class="form-control mb-2" />
+    <input asp-for="ResortLocation" class="form-control mb-2" />
+    <input asp-for="ResortImageUrl" class="form-control mb-2" />
+    <input asp-for="Price" class="form-control mb-2" />
+    <input asp-for="Capacity" class="form-control mb-2" />
+    <input asp-for="Description" class="form-control mb-2" />
+
+    <button class="btn btn-primary">Update</button>
+    <a class="btn btn-secondary" asp-action="Index">Back</a>
+</form>

@@ -1,0 +1,10 @@
+﻿<h2>Logout</h2>
+
+<div class="alert alert-warning">
+    <h4>Are you sure you want to logout?</h4>
+</div>
+
+<form method="post" asp-action="LogoutConfirmPost">
+    <button class="btn btn-danger">Yes, Logout</button>
+    <a class="btn btn-secondary" asp-controller="Resort" asp-action="Index">No</a>
+</form>

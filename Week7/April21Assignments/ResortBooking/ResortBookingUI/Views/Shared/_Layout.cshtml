@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ResortBookingUI</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    @{
+        var token = Context.Session.GetString("JWT");
+        var role = Context.Session.GetString("Role");
+        var isLoggedIn = !string.IsNullOrEmpty(token);
+    }
+
+    <!-- 🔝 TOP NAVBAR -->
+    <header>
+        <nav class="navbar navbar-dark bg-dark px-3">
+            <a class="navbar-brand" asp-controller="Resort" asp-action="Index">
+                ResortBooking
+            </a>
+
+            <div class="text-white">
+                @if (isLoggedIn)
+                {
+                    <span class="me-3">Role: <b>@role</b></span>
+
+                    <a class="btn btn-danger btn-sm"
+                       asp-controller="Auth"
+                       asp-action="LogoutConfirm">
+                        Logout
+                    </a>
+                }
+            </div>
+        </nav>
+    </header>
+
+    <!-- 🔥 MAIN LAYOUT -->
+    <div class="d-flex">
+
+        <!-- 🔥 SIDEBAR -->
+        @if (isLoggedIn)
+        {
+            <div class="bg-dark text-white p-3" style="width: 220px; min-height:100vh;">
+
+                <h5 class="text-center">MENU</h5>
+                <hr />
+
+                <a class="btn btn-outline-light w-100 mb-2"
+                   asp-controller="Resort" asp-action="Index">
+                    🏝 Resorts
+                </a>
+
+                <a class="btn btn-outline-light w-100 mb-2"
+                   asp-controller="Booking" asp-action="Index">
+                    📅 Bookings
+                </a>
+
+                <a class="btn btn-outline-light w-100 mb-2"
+                   asp-controller="Review" asp-action="Index">
+                    ⭐ Reviews
+                </a>
+
+                <hr />
+
+                @if (role == "Admin")
+                {
+                    <a class="btn btn-warning w-100 mb-2"
+                       asp-controller="Resort" asp-action="Create">
+                        ➕ Add Resort
+                    </a>
+                }
+
+                @if (role == "Customer")
+                {
+                    <a class="btn btn-success w-100 mb-2"
+                       asp-controller="Booking" asp-action="Create">
+                        ➕ New Booking
+                    </a>
+                }
+
+            </div>
+        }
+
+        <!-- 🔥 CONTENT AREA -->
+        <div class="flex-grow-1 p-4">
+            <main role="main">
+                @RenderBody()
+            </main>
+        </div>
+
+    </div>
+
+    <!-- 🔻 FOOTER -->
+    <footer class="border-top text-muted text-center p-2">
+        &copy; 2026 - ResortBookingUI
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>
