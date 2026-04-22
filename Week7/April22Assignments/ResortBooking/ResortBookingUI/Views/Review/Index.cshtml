@@ -1,0 +1,39 @@
+﻿@model List<ResortBookingUI.MVC.Models.Review>
+
+@{
+    var role = Context.Session.GetString("Role");
+}
+
+<h2>Reviews</h2>
+
+<table class="table table-bordered">
+    <tr>
+        @if (role == "Admin")
+        {
+            <th>Resort Id</th>
+            <th>Resort Name</th>
+            <th>Customer</th>
+        }
+        <th>Subject</th>
+        <th>Rating</th>
+        <th>Comment</th>
+
+        
+    </tr>
+
+    @foreach (var r in Model)
+    {
+        <tr>
+            @if (role == "Admin")
+            {
+                <td>@r.ResortId</td>
+                <td>@r.Resort?.ResortName</td>
+                <td>@r.User?.Username</td>
+            }
+            <td>@r.Subject</td>
+            <td>@r.Rating</td>
+            <td>@r.Body</td>
+            
+        </tr>
+    }
+</table>

@@ -1,0 +1,33 @@
+﻿@model ResortBookingUI.MVC.Models.Booking
+
+<h2>Booking Details</h2>
+
+<div class="card p-3">
+
+    <p><b>Booking ID:</b> @Model.BookingId</p>
+    <p><b>Resort:</b> @Model.Resort?.ResortName</p>
+    <p><b>Price:</b> ₹@Model.Resort?.Price</p>
+    <p><b>Persons:</b> @Model.NoOfPersons</p>
+    <p><b>Status:</b> @Model.Status</p>
+    <p><b>From:</b> @Model.FromDate.ToShortDateString()</p>
+    <p><b>To:</b> @Model.ToDate.ToShortDateString()</p>
+    <p><b>Total Price:</b> ₹@Model.TotalPrice</p>
+    <p><b>Address:</b> @Model.Address</p>
+
+</div>
+
+<br />
+
+<!-- WRITE REVIEW BUTTON -->
+@if (Model.Status == "Accepted")
+{
+    <a class="btn btn-success"
+       asp-controller="Review"
+       asp-action="Create"
+       asp-route-bookingId="@Model.BookingId"
+       asp-route-resortId="@Model.ResortId">
+        Write Review
+    </a>
+}
+
+<a class="btn btn-secondary" asp-action="Index">Back</a>

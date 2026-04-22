@@ -1,0 +1,114 @@
+﻿@model ResortBookingUI.MVC.Models.Booking
+
+<h2>Create Booking</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form method="post">
+
+    <!-- RESORT SECTION -->
+    <div class="mb-2">
+        <label>Resort</label>
+
+        @if (ViewBag.IsFromResort == true)
+        {
+            <!-- FIXED (FROM RESORT PAGE) -->
+            <input type="hidden" asp-for="ResortId" />
+
+            var selectedResort = ((List<ResortBookingUI.MVC.Models.Resort>)ViewBag.Resorts)
+            .FirstOrDefault(r => r.ResortId == Model.ResortId);
+
+            <input class="form-control"
+                   value="@selectedResort?.ResortName (₹@selectedResort?.Price/day)"
+                   readonly />
+
+            <!-- store price -->
+            <input type="hidden" id="pricePerDay" value="@selectedResort?.Price" />
+        }
+        else
+        {
+            <!-- DROPDOWN (NEW BOOKING) -->
+            <select asp-for="ResortId" class="form-control" id="resortDropdown">
+                <option value="">-- Select Resort --</option>
+
+                @foreach (var r in ViewBag.Resorts)
+                {
+                    <option value="@r.ResortId" data-price="@r.Price">
+                        @r.ResortName - ₹@r.Price
+                    </option>
+                }
+            </select>
+        }
+    </div>
+
+    <!-- PERSONS -->
+    <label>Enter number of Persons</label>
+    <input asp-for="NoOfPersons" class="form-control mb-2" />
+
+    <!-- DATES -->
+    <label>From Date</label>
+    <input asp-for="FromDate" type="date" class="form-control mb-2" id="fromDate" />
+
+    <label>To Date</label>
+    <input asp-for="ToDate" type="date" class="form-control mb-2" id="toDate" />
+
+    <!-- TOTAL PRICE -->
+    <label>Total Price</label>
+    <input asp-for="TotalPrice" id="totalPrice" class="form-control mb-2" readonly />
+
+    <!-- ADDRESS -->
+    <label>Enter Address</label>
+    <input asp-for="Address" class="form-control mb-2" />
+
+    <button class="btn btn-success">Book</button>
+    <a class="btn btn-secondary" asp-action="Index">Back</a>
+
+</form>
+
+@section Scripts {
+    <script>
+        const fromDate = document.getElementById("fromDate");
+        const toDate = document.getElementById("toDate");
+        const totalPrice = document.getElementById("totalPrice");
+        const dropdown = document.getElementById("resortDropdown");
+
+        let pricePerDay = 0;
+
+        // If dropdown exists → get price from selected option
+        if (dropdown) {
+            dropdown.addEventListener("change", function () {
+                const selected = dropdown.options[dropdown.selectedIndex];
+                pricePerDay = parseFloat(selected.getAttribute("data-price")) || 0;
+                calculatePrice();
+            });
+        }
+
+        // If fixed resort (from Start Booking)
+        const hiddenPrice = document.getElementById("pricePerDay");
+        if (hiddenPrice) {
+            pricePerDay = parseFloat(hiddenPrice.value) || 0;
+        }
+
+        function calculatePrice() {
+            if (fromDate.value && toDate.value && pricePerDay > 0) {
+
+                let start = new Date(fromDate.value);
+                let end = new Date(toDate.value);
+
+                let days = (end - start) / (1000 * 60 * 60 * 24);
+
+                if (days > 0) {
+                    totalPrice.value = days * pricePerDay;
+                } else {
+                    totalPrice.value = 0;
+                }
+            }
+        }
+
+        fromDate.addEventListener("change", calculatePrice);
+        toDate.addEventListener("change", calculatePrice);
+    </script>
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ResortBooking/ResortBooking.csproj" />
+  <Project Path="ResortBookingUI/ResortBookingUI.csproj" Id="63f652a5-b77d-4c35-91ef-4b7daa602432" />
+</Solution>
